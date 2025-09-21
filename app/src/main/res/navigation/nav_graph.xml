@@ -23,4 +23,10 @@
         android:id="@+id/detailFragment"
         android:name="com.example.lab_week_4.DetailFragment"
         android:label="DetailFragment" />
+    <fragment
+        android:id="@+id/cafeFragment"
+        android:name="com.example.lab_week_4.CafeFragment"
+        android:label="Cafe"
+        tools:layout="@layout/fragment_cafe" />
+
 </navigation>
